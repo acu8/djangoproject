@@ -1,6 +1,6 @@
 # To Do App
 
-Frameword: Django <br>
+Framework: Django <br>
 language: Python
 
 
